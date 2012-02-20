@@ -1,0 +1,20 @@
+{
+  "author": "Thomas Fritz <t.fritz@semantic-web.at>",
+  "name": "websocky",
+  "description": "Middleware enabled, session aware, einaros/ws driven  WebSocketServer for node.js",
+  "version": "0.0.1",
+  "homepage": "",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "dependencies": {
+		"ws":"latest",
+		"konsole":"latest"
+	},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
